@@ -2,7 +2,7 @@
 * Template Name: Gp - v4.3.0
 * Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
 * Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* License: https://bootstrapmade.com/license/hello Worlld
 */
 (function() {
   "use strict";
